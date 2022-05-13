@@ -1,6 +1,4 @@
 
-![TCB](https://global-uploads.webflow.com/5f7db7b2c610f69de3b182e7/5fc90eaeaf350670f90eadf1_TCB-blue.png)
-
 # The Customer Bureau Frontend Developer Coding Test (Vue3)
 
 Clone this repo, run `npm install` and start the project using `npm run dev`.
