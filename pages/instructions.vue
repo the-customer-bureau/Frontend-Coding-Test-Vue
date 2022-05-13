@@ -10,7 +10,7 @@
       whilst being quick, easy and painless for a candidate to fill in -
       we all hate annoying forms and CV submissions.</p>
     <p>At The Customer Bureau, we care about delivering exceptional digital products,
-      from the awesome tech (efficient, modern code DRY code built with SOLID principles) to the  wonderful end user experiences that aren’t just the rinse & repeat from before.</p>
+      from the awesome tech (efficient, modern DRY code built with SOLID principles) to the  wonderful end user experiences that aren’t just the rinse & repeat from before.</p>
 
     <h2>Purpose</h2>
     <p>The purpose of this test is to demonstrate your skills in creating layouts and UI, as well as how to build a UX using a simple form.</p>
