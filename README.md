@@ -1,4 +1,3 @@
-
 # The Customer Bureau Frontend Developer Coding Test (Vue3)
 
 Clone this repo, run `npm install` and start the project using `npm run dev`.
